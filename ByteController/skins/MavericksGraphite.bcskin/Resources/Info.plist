@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>João Gomes</string>
+	<key>CopyrightText</key>
+	<string>© 2017 João Gomes</string>
+	<key>Created</key>
+	<date>2017-06-11T21:49:00Z</date>
+	<key>Description</key>
+	<string>A skin inspired by iTunes' control buttons which fits the Mavericks menu bar like a glove</string>
+	<key>Name</key>
+	<string>Mavericks Graphite</string>
+	<key>Notes</key>
+	<string>Retina support. Credits: Apple Inc.</string>
+</dict>
+</plist>
