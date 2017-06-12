@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>João Gomes</string>
+	<key>CopyrightText</key>
+	<string>© 2007 João Gomes</string>
+	<key>Created</key>
+	<date>2007-11-15T01:04:00Z</date>
+	<key>Description</key>
+	<string>A skin inspired by iTunes' control buttons which fits the Leopard, Snow Leopard, Lion and Mountain Lion menu bar like a glove</string>
+	<key>Name</key>
+	<string>Leopard Graphite</string>
+	<key>Notes</key>
+	<string>Credits: Apple Inc.</string>
+</dict>
+</plist>
