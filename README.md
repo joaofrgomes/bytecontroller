@@ -3,8 +3,9 @@ ByteController
 
 An OS X menu bar application for controlling iTunes, Spotify and VLC.
 
-This software is open-source and donationware. Please make a donation at 
-http://www.bytetastic.com/
+This software is open-source and donationware. Please contact the
+original developers at https://www.linkedin.com/in/audunwilhelmsen/ and
+https://www.linkedin.com/in/jestho/.
 
 This is my first project, and it is just an otherwise unchanged fork of
 the original (as I have no coding knowledge whatsoever, just a lot of
