@@ -11,7 +11,7 @@ the original, with added skins I crafted to match the default look of menu
 extras. I have no coding knowledge whatsoever, but a lot of graphic design
 experience and a keen eye for UI and UX.
 
-Feel free to use the included .PDF, .AI and .AFDESIGN files as templates
+Feel free to use the included .SVG, .PDF, .AI .EPS and .AFDESIGN files as templates
 if you wish to make your own skins, since it took me a while to figure out
 the optimal dimensions and which background colours to use in order to
 coax ByteController into matching the macOS default menu bar selection
