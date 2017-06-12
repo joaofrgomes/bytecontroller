@@ -18,8 +18,8 @@ files if you wish to make your own skins, since it took me a while to
 figure out the optimal button and label dimensions and which background
 colours to use in order to coax ByteController skins into matching the
 default menu bar selection colours as closely as possible in each version
-of macOS. If you need some hints on the process please contact me here or
-at https://www.linkedin.com/in/joaofrgomes/.
+of macOS. If you need some hints on the process of creating new skins
+please contact me here or at https://www.linkedin.com/in/joaofrgomes/.
 
 The project I forked it from was one of the original contributor's first
 Cocoa projects, so the code can be a bit messy at places, and if you need
