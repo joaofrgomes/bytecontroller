@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Audun Wilhelmsen</string>
+	<key>CopyrightText</key>
+	<string>© 2012 Audun Wilhelmsen</string>
+	<key>Description</key>
+	<string>A very basic set. Matches Apple&apos;s standard Menu Extras.</string>
+	<key>Name</key>
+	<string>Default</string>
+	<key>Notes</key>
+	<string>Retina support</string>
+</dict>
+</plist>
