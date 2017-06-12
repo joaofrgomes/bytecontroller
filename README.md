@@ -7,8 +7,9 @@ This software is open-source and donationware. Please make a donation at
 http://www.bytetastic.com/
 
 This is my first project, and it is just an otherwise unchanged fork of
-the original, with added skins I crafted to match the default look of menu
-extras. I have no coding knowledge whatsoever, but a lot of graphic design
+the original, with skins I crafted to match the default look of menu
+extras replacing the more skeumorphic and dated ones.
+I have no coding knowledge whatsoever, but a lot of graphic design
 experience and a keen eye for UI and UX.
 
 Feel free to use the included .SVG, .PDF, .AI .EPS and .AFDESIGN template
