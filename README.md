@@ -6,7 +6,9 @@ An OS X menu bar application for controlling iTunes, Spotify and VLC.
 This software is open-source and donationware. Please make a donation at 
 http://www.bytetastic.com/
 
-This is my first project, and it is just a fork of with added skins. I have no coding knowledge whatsoever, but a lot of graphic design experience and a keen eye for UI and UX. It was one of the original contributor's first Cocoa projects, so the code can be a bit messy at places. If you make any modifications to the app, please share your contributions. You will be credited.
+This is my first project, and it is just an otherwise unchanged fork of the original, with added skins I crafted to match the default look of menu extras. I have no coding knowledge whatsoever, but a lot of graphic design experience and a keen eye for UI and UX; I hope you enjoy my work.
+
+The project I forked it from was one of the original contributor's first Cocoa projects, so the code can be a bit messy at places, and if you need assistance please contact the original contributor. If you make any modifications to the app, please share your contributions. You will be credited.
 
 Building
 --------
