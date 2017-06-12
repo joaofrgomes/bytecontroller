@@ -13,9 +13,9 @@ experience and a keen eye for UI and UX.
 
 Feel free to use the included .SVG, .PDF, .AI .EPS and .AFDESIGN template
 files if you wish to make your own skins, since it took me a while to
-figure out the optimal dimensions and which background colours to use in
-order to coax ByteController into matching the macOS default menu bar
-selection colours.
+figure out the optimal button and label dimensions and which background
+colours to use in order to coax ByteController into matching as closely as
+possible the default menu bar selection colours in each version of macOS.
 
 The project I forked it from was one of the original contributor's first
 Cocoa projects, so the code can be a bit messy at places, and if you need
