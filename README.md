@@ -9,7 +9,12 @@ http://www.bytetastic.com/
 This is my first project, and it is just an otherwise unchanged fork of
 the original, with added skins I crafted to match the default look of menu
 extras. I have no coding knowledge whatsoever, but a lot of graphic design
-experience and a keen eye for UI and UX; I hope you enjoy my work.
+experience and a keen eye for UI and UX.
+
+Feel free to use the included .PDF, .AI and .AFDESIGN files as templates,
+since it took me a while to figure out the optimal dimensions and which
+background colours to use in order to coax ByteController into matching
+the macOS default menu bar selection colours.
 
 The project I forked it from was one of the original contributor's first
 Cocoa projects, so the code can be a bit messy at places, and if you need
